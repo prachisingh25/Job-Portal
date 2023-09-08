@@ -1,0 +1,3 @@
+# "robots.txt" file effectively allows all web crawlers to access and index all content on the website because there are no specific "Disallow" rules specified.
+User-agent: *
+Disallow:
